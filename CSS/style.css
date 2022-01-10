@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.debug .container , .debug .container-fluid {
+    background-color: blue;
+    min-height: 100px;
+}
+
+.debug .row {
+    background-color: white;
+    min-height: 100px;
+    padding-top: 50px;
+}
+
+.debug .box {
+    min-height: 50px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding: 15px;
+    border: solid white;
+}
