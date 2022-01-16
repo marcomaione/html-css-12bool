@@ -23,3 +23,46 @@
     padding: 15px;
     border: solid white;
 }
+
+/*bonus*/
+
+.box-1 {
+    min-height: 100px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding: 15px;
+    border: solid white;
+}
+
+.box-2 {
+    min-height: 50px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding: 15px;
+    border: solid white;
+    margin-top:25px;
+}
+
+.box-3 {
+    margin-top: 50px;
+    min-height: 50px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding: 15px;
+    border: solid white;
+}
+
+.debug .row-2 {
+    background-color: white;
+    min-height: 100px;
+    padding-top: 50px;
+}
+
+.debug .row-3 {
+    background-color: white;
+    min-height: 100px;
+    padding-top: 50px;
+}

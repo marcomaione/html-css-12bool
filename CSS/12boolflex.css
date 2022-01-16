@@ -149,3 +149,28 @@
     margin-left: calc((100% / 12) * 11);
 
 }
+
+
+/*bonus*/
+
+.row-1 {
+    height: 300px;
+    display: flex;
+    flex-direction:column;
+}
+
+.row-2 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.row-3 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
